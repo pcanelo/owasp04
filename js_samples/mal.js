@@ -1,1 +1,1 @@
-alert("This is XSS!");
+alert("This is XSS Demostration!");
